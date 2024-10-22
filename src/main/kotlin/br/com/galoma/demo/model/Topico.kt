@@ -1,4 +1,4 @@
-package br.com.virandoprogramador.model
+package br.com.galoma.demo.model
 
 import java.time.LocalDateTime
 import javax.persistence.*

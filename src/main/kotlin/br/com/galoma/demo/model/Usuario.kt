@@ -1,4 +1,4 @@
-package br.com.virandoprogramador.model
+package br.com.galoma.demo.model
 
 import javax.persistence.*
 
